@@ -26,8 +26,17 @@
 
 4. Click on "Debug" tab
 5. Click on "Settings". Make sure you are using ST-Link Debugger
+
+![Image1](https://github.com/AlvaroLopez10/RFID-STM32/blob/master/doc/images/image2.png?raw=true)
+
 6. Click on "Flash Download" tab
 7. Make sure "Reset and Run" is checked and click OK
+
+![Image1](https://github.com/AlvaroLopez10/RFID-STM32/blob/master/doc/images/image3.png?raw=true)
+
 8. Click on "Build" to compile and create target files
 9. Click on Load
+
+![Image1](https://github.com/AlvaroLopez10/RFID-STM32/blob/master/doc/images/image4.png?raw=true)
+
 10. Reset STM32F103C8T6 with the button on the board
