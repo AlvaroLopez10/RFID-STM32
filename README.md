@@ -21,7 +21,9 @@
 1. Connect STM with ST-Link
 2. Open MDK-ARM/RFID_Lib1.uvprojx **(Keil Project)**
 3. Click on "Options for Target"
+
 ![Image1](https://github.com/AlvaroLopez10/RFID-STM32/blob/master/doc/images/image1.png?raw=true)
+
 4. Click on "Debug" tab
 5. Click on "Settings". Make sure you are using ST-Link Debugger
 6. Click on "Flash Download" tab
